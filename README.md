@@ -33,7 +33,7 @@ Project Meme Generator.
 ## :interrobang: Motivo
 
 Terceiro projeto realizado no módulo de fundamento do curso na Trybe.
-Este é o projeto bonus desse bloco, que é o quarto bloco. Foram 2 projetos obrigatórios e 3 bonus.
+Este é o projeto bonus desse bloco, bloco esse o 4. Foram 2 projetos obrigatórios e 3 bonus.
 Projeto realizado para consolidar os conhecimento aprendidos em HTML, CSS, JS, Web Storage, ;)
 
 ## :seedling: Requisitos Mínimos
