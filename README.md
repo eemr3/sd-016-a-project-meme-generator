@@ -28,11 +28,13 @@ ___
 
 ## :information_source: Sobre
 
-Project Meme Generator. Quarto projeto do módulo de fundamentos do curso na Trybe
+Project Meme Generator.
 
 ## :interrobang: Motivo
 
-Projeto realizado para consolidar os conhecimentos adquiridos em HTML, CSS e JS até o momento no curso. ;)
+Terceiro projeto realizado no módulo de fundamento do curso na Trybe.
+Este é o projeto bonus desse bloco, que é o quarto bloco. Foram 2 projetos obrigatórios e 3 bonus.
+Projeto realizado para consolidar os conhecimento aprendidos em HTML, CSS, JS, Web Storage, ;)
 
 ## :seedling: Requisitos Mínimos
 
